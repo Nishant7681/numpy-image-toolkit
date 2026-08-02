@@ -1,5 +1,5 @@
 # NumPy Image Toolkit
-⭐ A beginner-friendly image processing toolkit built with Python, NumPy, Pillow and Matplotlib. It demonstrates fundamental image processing techniques using modular and clean code.
+A beginner-friendly image processing toolkit built with Python, NumPy, Pillow and Matplotlib. It demonstrates fundamental image processing techniques using modular and clean code.
 
 This project performs basic image processing operations such as grayscale conversion, brightness adjustment, contrast enhancement, filtering, histogram generation and binary thresholding.
 
